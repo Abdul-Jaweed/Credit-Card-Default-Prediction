@@ -44,7 +44,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/Abdul-Jaweed/Customer-Personality-Analysis.git
+git clone https://github.com/Abdul-Jaweed/Credit-Card-Default-Prediction.git
 ```
 
 
