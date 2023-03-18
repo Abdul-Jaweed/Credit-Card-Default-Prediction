@@ -29,16 +29,16 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 
 ## Data Collections
-![image](https://github.com/Abdul-Jaweed/Customer-Personality-Analysis/blob/main/flowchart/1.png)
+![image](https://github.com/Abdul-Jaweed/Credit-Card-Default-Prediction/blob/main/flowchart/1.png)
 
 
 
 ## Project Archietecture
-![image](https://github.com/Abdul-Jaweed/Customer-Personality-Analysis/blob/main/flowchart/2.png)
+![image](https://github.com/Abdul-Jaweed/Credit-Card-Default-Prediction/blob/main/flowchart/2.png)
 
 
 ## Deployment Archietecture
-![image](https://github.com/Abdul-Jaweed/Customer-Personality-Analysis/blob/main/flowchart/3.png)
+![image](https://github.com/Abdul-Jaweed/Credit-Card-Default-Prediction/blob/main/flowchart/3.png)
 
 
 
