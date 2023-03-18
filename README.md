@@ -22,6 +22,14 @@ learning algorithms that’s best fit for the above case.
  - Docker
  - Machine Learning
 
+### Infrastructure Required.
+
+- AWS S3
+- AWS EC2
+- AWS ECR
+- Git Actions
+
+
 
 ## How to run?
 
